@@ -1,0 +1,2 @@
+# REAL-TIME-SQL-INJECTION-ATTACK-DETECTION-IN-NETWORK-ENVIRONMENTS
+This project is to design and implement a real-time detection system capable of  identifying SQL Injection (SQLi) attacks within network environments. This system will monitor network  traffic, extract relevant HTTP request data, and analyze it using signature-based and/or machine learning  techniques to identify malicious SQL patterns. 
